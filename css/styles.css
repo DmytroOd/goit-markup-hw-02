@@ -13,7 +13,7 @@ body {font-family: 'Roboto', sans-serif;
         sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height:1.17;
+    line-height: 1.17;
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -23,7 +23,7 @@ color: var(--IRIS, #4D5AE5);
         sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height:1.17;
+    line-height: 1.17;
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -51,7 +51,7 @@ address {font-style: normal;}
     letter-spacing: 0.32px;}
 .contact-link:hover,
 .contact-link:focus {
-    color: #4D5AE5;}
+    color: #404bbf;}
 
     /*=========Hero SECTION======*/
 
