@@ -6,14 +6,14 @@
 button
  {cursor: pointer;}
 body {font-family: 'Roboto', sans-serif;
-    color: var(--SLATE, #434455);
+    color: var(--SLATE, #434455);background-color: #FFFFFF;
 }
 /*=========Header styles=======*/
 .logotype {font-family: 'Raleway',
         sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -23,7 +23,7 @@ color: var(--IRIS, #4D5AE5);
         sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -41,10 +41,11 @@ color: var(--NAVY-BLUE, #2E2F42)}
 .menu-link:focus {
     color: #4D5AE5;
 }
+address {font-style: normal;}
 .contact-link {color: var(--SLATE, #434455);
     /* Body */
     font-size: 16px;
-    font-style: normal;
+    
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.32px;}
