@@ -39,7 +39,7 @@ color: var(--NAVY-BLUE, #2E2F42)
 color: var(--NAVY-BLUE, #2E2F42)}
 .menu-link:hover,
 .menu-link:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 address {font-style: normal;}
 .contact-link {color: var(--SLATE, #434455);
