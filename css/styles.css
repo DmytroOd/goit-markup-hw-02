@@ -64,7 +64,8 @@ address {font-style: normal;}
     line-height: 1.07;
     /* 107.143% */
     letter-spacing: 0.02em;
-color: var(--WHITE, #FFFFFF)}
+color: var(--WHITE, #FFFFFF)
+}
 .order-service{background-color: #4D5AE5;
        
     /* Button Text */
