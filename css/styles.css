@@ -88,7 +88,7 @@ color: var(--WHITE, #FFFFFF)
     /* 120% */
     letter-spacing: 0.02em;
 color: var(--NAVY-BLUE, #2E2F42)}
-.advantage-text {color: var(--SLATE, #434455);
+.advantage-text {
     /* Body */
     font-size: 16px;
   
