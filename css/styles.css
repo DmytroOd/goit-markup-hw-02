@@ -66,19 +66,19 @@ address {font-style: normal;}
     letter-spacing: 0.02em;
 color: var(--WHITE, #FFFFFF)
 }
-.order-service {cursor: pointer; background-color: #4D5AE5;
-       
-    /* Button Text */
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    /* 150% */
-    letter-spacing: 0.04em;
+.order-service {
     color: var(--WHITE, #FFFFFF);
+/* Button Text */
+font-size: 16px;
+font-weight: 500;
+line-height: 24px; /* 150% */
+letter-spacing: 0.64px;
+ background-color: #4D5AE5;   
 }
 .order-service:hover,
-.order-service:focus{
-    color:#404BBF;}
+.order-service:focus{color: var(--WHITE, #FFFFFF);
+    background-color: #404BBF;
+  }
 
 .advantages {
     /* Header 3 */
