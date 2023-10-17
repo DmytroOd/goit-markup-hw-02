@@ -172,7 +172,7 @@ color: var(--NAVY-BLUE, #2E2F42)}
                     /* 116.667% */
                     letter-spacing: 0.03em;
                     text-transform: uppercase;
-                    color: var(--NAVY-BLUE, #2E2F42)
+                    color: var(--CLOUD, #F4F4FD);
                 }
                 .pharagraf{color: var(--CLOUD, #F4F4FD);
                     /* Body */
