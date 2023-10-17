@@ -75,9 +75,9 @@ line-height: 24px; /* 150% */
 letter-spacing: 0.64px;
  background-color: #4D5AE5;   
 }
-.order-service:hover,
-.order-service:focus{color: var(--WHITE, #FFFFFF);
-    background-color: #404BBF;
+.order-service-button:hover,
+.order-service-button:focus {color: var(--WHITE, #FFFFFF);
+    background-color:#404BBF;
   }
 
 .advantages {
