@@ -96,7 +96,7 @@ color: var(--NAVY-BLUE, #2E2F42)}
     /* 150% */
     letter-spacing: 0.02em;
 }
-.menu-team{color: var(--NAVY-BLUE, #2E2F42);
+.section-title {color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     /* Header 2 */
     font-size: 36px;
