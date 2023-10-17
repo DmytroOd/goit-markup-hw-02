@@ -66,7 +66,7 @@ address {font-style: normal;}
     letter-spacing: 0.02em;
 color: var(--WHITE, #FFFFFF)
 }
-.order-service{background-color: #4D5AE5;
+.order-service {cursor: pointer; background-color: #4D5AE5;
        
     /* Button Text */
     font-size: 16px;
@@ -74,10 +74,11 @@ color: var(--WHITE, #FFFFFF)
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.04em;
-    color: var(--WHITE, #FFF);
+    color: var(--WHITE, #FFFFFF);
 }
 .order-service:hover,
-.order-service:focus{color:#404BBF;}
+.order-service:focus{
+    color:#404BBF;}
 
 .advantages {
     /* Header 3 */
